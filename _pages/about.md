@@ -13,4 +13,5 @@ I am a third-year Ph.D. student in information science and technology (IST) at V
 News
 ======
 1. This fall, I will be intern at Amazon, Cambridge, GBR.
-1. Lastest paper, [CL-ReLKT](https://openreview.net/pdf?id=SGfeUGXMBZc) accepted at Finding of NAACL 2022
+1. [CL-ReLKT](https://openreview.net/pdf?id=SGfeUGXMBZc) accepted at Finding of NAACL 2022
+2. [Thai Nested NER](https://aclanthology.org/2022.findings-acl.116/) accepted at Finding of ACL 2022
