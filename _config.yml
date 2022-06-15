@@ -81,11 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Peerat Limkonchotiwat"
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   bio              : "PhD student at VISTEC"
   location         : "Thailand"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=T-rvPZ4AAAAJ&hl=th"
   email            :
   uri              :
@@ -99,7 +98,6 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   pinterest        :
