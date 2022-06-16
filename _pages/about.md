@@ -10,12 +10,12 @@ redirect_from:
 
 I'm currently studying Ph.D. (5 years program) Scalable Data Systems (SCADS) Lab - Natural Language Processing and Understanding (NLPU) team, [information science and technology (IST) at VISTEC](https://vistec.ist/), Thailand.
 
-I'm working with [Assoc. Prof. Dr. Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ&hl=th) and [Ekapol Chuangsuwanich](https://scholar.google.com/citations?user=ST-jPeYAAAAJ&hl=th).
+I'm working with [Assoc. Prof. Dr. Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ&hl=th) and [Dr. Ekapol Chuangsuwanich](https://scholar.google.com/citations?user=ST-jPeYAAAAJ&hl=th).
 
 I have extensive experience with Natural Language Processing (NLP) and Information Retrieval (IR), for instance,  word segmentation, multilingual sentence representation, multilingual sentence- and document-level retrievals, representation learning, and question answering.
 
 News
 ======
-1. This fall, I will intern at Amazon, Cambridge, GBR.
+1. This fall, I will intern at [Amazon](https://www.amazon.jobs/en/landing_pages/cambridge?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=cambridge-uk&cache), Cambridge, GBR.
 1. [CL-ReLKT](https://openreview.net/pdf?id=SGfeUGXMBZc) accepted at Finding of NAACL 2022
 2. [Thai Nested NER](https://aclanthology.org/2022.findings-acl.116/) accepted at Finding of ACL 2022
