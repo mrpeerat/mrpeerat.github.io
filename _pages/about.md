@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in information science and technology (IST) at VISTEC, Thailand. I have extensive experience with Natural Language Processing (NLP) and Information Retrieval (IR), for instance,  word segmentation, multilingual sentence representation, multilingual sentence- and document-level retrieval, representation learning, and question answering.
+I'm currently studying Ph.D. (5 years program) Scalable Data Systems (SCADS) Lab - Natural Language Processing and Understanding (NLPU) team, [information science and technology (IST) at VISTEC](https://vistec.ist/), Thailand.
+
+I'm working with Assoc. Prof. Dr. Sarana Nutanong and [AIResearch Team](https://airesearch.in.th/).
+
+I have extensive experience with Natural Language Processing (NLP) and Information Retrieval (IR), for instance,  word segmentation, multilingual sentence representation, multilingual sentence- and document-level retrievals, representation learning, and question answering.
 
 News
 ======
