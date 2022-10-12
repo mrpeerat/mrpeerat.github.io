@@ -8,7 +8,7 @@ author_profile: true
 # 2022
 - <a href="https://aclanthology.org/2022.findings-acl.116/">Thai Nested Named Entity Recognition Corpus</a> (ACL'22 - Findings) Weerayut Buaphet, Can Udomcharoenchaikit, ***Peerat Limkonchotiwat***, Attapol Rutherford, Sarana Nutanong. Github: [LINK](https://github.com/vistec-AI/Thai-NNER)
 - <a href="https://openreview.net/forum?id=y42xxJ_xx8">CL-ReLKT: Cross-lingual Language Knowledge Transfer for Multilingual Retrieval Question Answering</a> (NAACL'22 - Findings) ***Peerat Limkonchotiwat***,  Wuttikorn Ponwitayarat, Can Udomcharoenchaikit, Ekapol Chuangsuwanich, Sarana Nutanong. Github: [LINK](https://github.com/mrpeerat/CL-ReLKT)
-- <a href="[https://openreview.net/forum?id=y42xxJ_xx8](https://github.com/KornWtp/ConGen/blob/main/ConGen__Unsupervised_Control_and_Generalization_Distillation_For_Sentence_Representation.pdf)">ConGen: Unsupervised Control and Generalization Distillation For Sentence Representation</a> (Finding of EMNLP 2022) ***Peerat Limkonchotiwat***,  Wuttikorn Ponwitayarat, Lalita Lowphansirikul, Can Udomcharoenchaikit, Ekapol Chuangsuwanich, Sarana Nutanong. Github: [LINK](https://github.com/KornWtp/ConGen)
+- [ConGen: Unsupervised Control and Generalization Distillation For Sentence Representation]((https://github.com/KornWtp/ConGen/blob/main/ConGen__Unsupervised_Control_and_Generalization_Distillation_For_Sentence_Representation.pdf)) (Finding of EMNLP 2022) ***Peerat Limkonchotiwat***,  Wuttikorn Ponwitayarat, Lalita Lowphansirikul, Can Udomcharoenchaikit, Ekapol Chuangsuwanich, Sarana Nutanong. Github: [LINK](https://github.com/KornWtp/ConGen)
 
 
 # 2021
