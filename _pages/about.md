@@ -10,9 +10,15 @@ redirect_from:
 
 I'm currently a Ph.D. student (5-year program) in the Natural Language and Representation Lab (NRL), [Information Science and Technology (IST) at VISTEC](https://vistec.ist/), Thailand.
 I'm working with [Assoc. Prof. Dr. Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ&hl=th) and [Dr. Ekapol Chuangsuwanich](https://scholar.google.com/citations?user=ST-jPeYAAAAJ&hl=th).
-My research topics are Natural Language Processing (NLP) and Information Retrieval (IR), for instance,  word segmentation ([EMNLP'20](https://www.aclweb.org/anthology/2020.emnlp-main.315/),[ACL'21](https://aclanthology.org/2021.findings-acl.86.pdf)) , multilingual sentence- and document-level retrievals ([NAACL'22](https://openreview.net/forum?id=y42xxJ_xx8), [ACL'23](https://aclanthology.org/2023.acl-short.95.pdf)), representation learning ([EMNLP'22](https://github.com/KornWtp/ConGen/blob/main/ConGen__Unsupervised_Control_and_Generalization_Distillation_For_Sentence_Representation.pdf), [ACL'23](https://aclanthology.org/2023.acl-short.95.pdf), [TACL'23](https://github.com/mrpeerat/SCT/blob/main/An_Efficient_Self_supervised_Cross_View_Training_For_Unsupervised_Sentence_Embedding.pdf)), and question answering ([NAACL'22](https://openreview.net/forum?id=y42xxJ_xx8)).
 
-Research Experiences
+# My research topics
+- Word segmentation ([EMNLP'20](https://www.aclweb.org/anthology/2020.emnlp-main.315/),[ACL'21](https://aclanthology.org/2021.findings-acl.86.pdf))
+- Multilingual sentence- and document-level retrievals ([NAACL'22](https://openreview.net/forum?id=y42xxJ_xx8), [ACL'23](https://aclanthology.org/2023.acl-short.95.pdf))
+- Representation learning ([EMNLP'22](https://github.com/KornWtp/ConGen/blob/main/ConGen__Unsupervised_Control_and_Generalization_Distillation_For_Sentence_Representation.pdf), [ACL'23](https://aclanthology.org/2023.acl-short.95.pdf), [TACL'23](https://github.com/mrpeerat/SCT/blob/main/An_Efficient_Self_supervised_Cross_View_Training_For_Unsupervised_Sentence_Embedding.pdf))
+- Question answering ([NAACL'22](https://openreview.net/forum?id=y42xxJ_xx8)).
+- Information Extraction: Nested NER ([ACL'22](https://aclanthology.org/2022.findings-acl.116/)). 
+
+#Research Experiences
 - Subject Matter Expert of the [WangchanX project](). Model(s): [WangchanGLM](https://github.com/PyThaiNLP/WangChanGLM), a large generative model for Thai. Dataset(s): Comming Soon.  
 - Applied Science Intern at Amazon (2022-2023). Working with Weiwei Cheng (mentor), [Christos Christodoulopoulos](https://scholar.google.com/citations?user=oZORQtwAAAAJ&hl=en), [Amir Saffari](https://scholar.google.co.uk/citations?user=QJX4mnQAAAAJ&hl=en), and [Jens Lehmann](https://scholar.google.com/citations?user=sEaQ5rgAAAAJ&hl=th&oi=ao). 
 
