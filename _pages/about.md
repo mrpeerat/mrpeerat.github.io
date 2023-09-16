@@ -18,7 +18,7 @@ I'm working with [Assoc. Prof. Dr. Sarana Nutanong](https://scholar.google.com/c
 - Question answering ([NAACL'22](https://openreview.net/forum?id=y42xxJ_xx8)).
 - Information Extraction: Nested NER ([ACL'22](https://aclanthology.org/2022.findings-acl.116/)). 
 
-#Research Experiences
+# Research Experiences
 - Subject Matter Expert of the [WangchanX project](). Model(s): [WangchanGLM](https://github.com/PyThaiNLP/WangChanGLM), a large generative model for Thai. Dataset(s): Comming Soon.  
 - Applied Science Intern at Amazon (2022-2023). Working with Weiwei Cheng (mentor), [Christos Christodoulopoulos](https://scholar.google.com/citations?user=oZORQtwAAAAJ&hl=en), [Amir Saffari](https://scholar.google.co.uk/citations?user=QJX4mnQAAAAJ&hl=en), and [Jens Lehmann](https://scholar.google.com/citations?user=sEaQ5rgAAAAJ&hl=th&oi=ao). 
 
