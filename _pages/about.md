@@ -26,8 +26,9 @@ Research Experiences
 
 News
 ======
-1. My latest paper, [SCT](https://github.com/mrpeerat/SCT), accepted at TACL 2023. 
-2. [ConGen](https://github.com/KornWtp/ConGen) accepted at Finding of EMNLP 2022.
-3. This fall, I will intern at [Amazon](https://www.amazon.jobs/en/landing_pages/cambridge?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=cambridge-uk&cache), Cambridge, GBR.
-4. [CL-ReLKT](https://openreview.net/pdf?id=SGfeUGXMBZc) accepted at Finding of NAACL 2022
-5. [Thai Nested NER](https://aclanthology.org/2022.findings-acl.116/) accepted at Finding of ACL 2022
+1. My intern project at Amazon has been published at EMNLP 2023 (finding)! 
+2. My latest sentence embedding paper, [SCT](https://github.com/mrpeerat/SCT), accepted at TACL 2023. 
+3. [ConGen](https://github.com/KornWtp/ConGen) accepted at Finding of EMNLP 2022.
+4. This fall, I will intern at [Amazon](https://www.amazon.jobs/en/landing_pages/cambridge?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=cambridge-uk&cache), Cambridge, GBR.
+5. [CL-ReLKT](https://openreview.net/pdf?id=SGfeUGXMBZc) accepted at Finding of NAACL 2022
+6. [Thai Nested NER](https://aclanthology.org/2022.findings-acl.116/) accepted at Finding of ACL 2022
