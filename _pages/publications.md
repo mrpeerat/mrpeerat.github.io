@@ -8,6 +8,8 @@ author_profile: true
 # 2023
 - <a href="https://aclanthology.org/2023.acl-short.95.pdf">Typo-Robust Sentence Representation Learning for Dense Retrieval</a> (ACL'23) Panuthep Tasawong, Wuttikorn Ponwitayarat, ***Peerat Limkonchotiwat***, Can Udomcharoenchaikit, Ekapol Chuangsuwanich, Sarana Nutanong. Github: [LINK](https://github.com/panuthept/DST-DenseRetrieval)
 - [An Efficient Self-Supervised Cross-View Training For Sentence Embedding](https://github.com/mrpeerat/SCT/blob/main/An_Efficient_Self_supervised_Cross_View_Training_For_Unsupervised_Sentence_Embedding.pdf) (TACL 2023) ***Peerat Limkonchotiwat***,  Wuttikorn Ponwitayarat, Lalita Lowphansirikul, Can Udomcharoenchaikit, Ekapol Chuangsuwanich, Sarana Nutanong. Github: [LINK](https://github.com/mrpeerat/SCT)
+- [mReFinED: An Efficient End-to-End Multilingual Entity Linking System]() (EMNLP'23 - Finding) ***Peerat Limkonchotiwat***, Weiwei Cheng, Christos Christodoulopoulos, Amir Saffari, Jens Lehmann.
+
 
 # 2022
 - <a href="https://aclanthology.org/2022.findings-acl.116/">Thai Nested Named Entity Recognition Corpus</a> (ACL'22 - Findings) Weerayut Buaphet, Can Udomcharoenchaikit, ***Peerat Limkonchotiwat***, Attapol Rutherford, Sarana Nutanong. Github: [LINK](https://github.com/vistec-AI/Thai-NNER)
