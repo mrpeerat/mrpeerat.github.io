@@ -17,7 +17,7 @@ My research topics
 - Multilingual sentence- and document-level retrievals ([NAACL'22](https://openreview.net/forum?id=y42xxJ_xx8), [ACL'23](https://aclanthology.org/2023.acl-short.95.pdf))
 - Representation learning ([EMNLP'22](https://github.com/KornWtp/ConGen/blob/main/ConGen__Unsupervised_Control_and_Generalization_Distillation_For_Sentence_Representation.pdf), [ACL'23](https://aclanthology.org/2023.acl-short.95.pdf), [TACL'23](https://github.com/mrpeerat/SCT/blob/main/An_Efficient_Self_supervised_Cross_View_Training_For_Unsupervised_Sentence_Embedding.pdf))
 - Question answering ([NAACL'22](https://openreview.net/forum?id=y42xxJ_xx8)).
-- Information Extraction: Nested NER ([ACL'22](https://aclanthology.org/2022.findings-acl.116/)). 
+- Information Extraction: Entity Linking ([EMNLP'23]()) and Nested NER ([ACL'22](https://aclanthology.org/2022.findings-acl.116/)). 
 
 Research Experiences
 ======
