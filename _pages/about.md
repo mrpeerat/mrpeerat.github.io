@@ -29,6 +29,6 @@ News
 1. My intern project, [mReFinED](https://aclanthology.org/2023.findings-emnlp.1007/), at Amazon has been published at EMNLP 2023 (finding)! 
 2. My latest sentence embedding paper, [SCT](https://github.com/mrpeerat/SCT), was accepted at TACL 2023. 
 3. [ConGen](https://github.com/KornWtp/ConGen) accepted at Finding of EMNLP 2022.
-4. In 2023 fall, I will intern at [Amazon](https://www.amazon.jobs/en/landing_pages/cambridge?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=cambridge-uk&cache), Cambridge, GBR.
+4. In Fall 2022, I will intern at [Amazon](https://www.amazon.jobs/en/landing_pages/cambridge?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=cambridge-uk&cache), Cambridge, GBR.
 5. [CL-ReLKT](https://openreview.net/pdf?id=SGfeUGXMBZc) accepted at Finding of NAACL 2022
 6. [Thai Nested NER](https://aclanthology.org/2022.findings-acl.116/) accepted at Finding of ACL 2022
