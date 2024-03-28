@@ -14,7 +14,7 @@ I'm working with [Assoc. Prof. Dr. Sarana Nutanong](https://scholar.google.com/c
 My research topics
 ======
 - Word segmentation ([EMNLP'20](https://www.aclweb.org/anthology/2020.emnlp-main.315/), [ACL'21](https://aclanthology.org/2021.findings-acl.86.pdf))
-- Multilingual sentence- and document-level retrievals ([NAACL'22](https://openreview.net/forum?id=y42xxJ_xx8), [ACL'23](https://aclanthology.org/2023.acl-short.95.pdf))
+- Multilingual and cross-lingual retrieval systems ([NAACL'22](https://openreview.net/forum?id=y42xxJ_xx8), [ACL'23](https://aclanthology.org/2023.acl-short.95.pdf))
 - Representation learning ([EMNLP'22](https://github.com/KornWtp/ConGen/blob/main/ConGen__Unsupervised_Control_and_Generalization_Distillation_For_Sentence_Representation.pdf), [ACL'23](https://aclanthology.org/2023.acl-short.95.pdf), [TACL'23](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00620/118714/An-Efficient-Self-Supervised-Cross-View-Training))
 - Question answering ([NAACL'22](https://openreview.net/forum?id=y42xxJ_xx8)).
 - Information Extraction: Entity Linking ([EMNLP'23](https://aclanthology.org/2023.findings-emnlp.1007/)) and Nested NER ([ACL'22](https://aclanthology.org/2022.findings-acl.116/)). 
