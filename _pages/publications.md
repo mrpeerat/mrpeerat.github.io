@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# 2024
+- <a href="">Identifying and Mitigating Annotation Bias in Natural Language Understanding using Causal Mediation Analysis</a> (ACL'24) Can Udomcharoenchaikit, Sitiporn Sae Lim, ***Peerat Limkonchotiwat***, Ekapol Chuangsuwanich, Sarana Nutanong. Github: [LINK]()
 
 # 2023
 - <a href="https://aclanthology.org/2023.acl-short.95.pdf">Typo-Robust Sentence Representation Learning for Dense Retrieval</a> (ACL'23) Panuthep Tasawong, Wuttikorn Ponwitayarat, ***Peerat Limkonchotiwat***, Can Udomcharoenchaikit, Ekapol Chuangsuwanich, Sarana Nutanong. Github: [LINK](https://github.com/panuthept/DST-DenseRetrieval)
