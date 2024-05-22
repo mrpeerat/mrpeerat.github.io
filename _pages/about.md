@@ -21,8 +21,8 @@ My research topics
 
 Research Experiences
 ======
-- Subject Matter Expert of the [WangchanX project](https://www.wangchan.ai/home). Our team developed two Thai large language models: [WangchanGLM](https://github.com/PyThaiNLP/WangChanGLM) (based on XGLM) and [WangchanLion](https://huggingface.co/airesearch/WangchanLion7B) (based on SeaLION). Our team also planned to release the largest Thai instruction dataset in 2024.  
-- Applied Science Intern at Amazon (2022-2023). Working with Weiwei Cheng (mentor), [Christos Christodoulopoulos](https://scholar.google.com/citations?user=oZORQtwAAAAJ&hl=en), [Amir Saffari](https://scholar.google.co.uk/citations?user=QJX4mnQAAAAJ&hl=en), [Jens Lehmann](https://scholar.google.com/citations?user=sEaQ5rgAAAAJ&hl=th&oi=ao), and Daniele Masato (PM). 
+- A Subject Matter Expert (SME) of the [WangchanX project](https://www.wangchan.ai/home) from 2019-2024. Our team developed two Thai large language models: [WangchanGLM](https://github.com/PyThaiNLP/WangChanGLM) (based on XGLM) and [WangchanLion](https://huggingface.co/airesearch/WangchanLion7B) (based on SeaLION). Moreover, we released a [WangchanX toolkit](https://github.com/vistec-AI/WangchanX) for fine-tuning Thai LLMs. Our team also planned to release the largest Thai instruction dataset in 2024.  
+- Applied Science Intern at Amazon, GBR (2022-2023). Working with Weiwei Cheng (mentor), [Christos Christodoulopoulos](https://scholar.google.com/citations?user=oZORQtwAAAAJ&hl=en), [Amir Saffari](https://scholar.google.co.uk/citations?user=QJX4mnQAAAAJ&hl=en), [Jens Lehmann](https://scholar.google.com/citations?user=sEaQ5rgAAAAJ&hl=th&oi=ao), and Daniele Masato (PM). 
 
 News
 ======
