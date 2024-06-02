@@ -8,5 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-You can download my CV [here](https://github.com/mrpeerat/ReFinED_Peerat/files/11300470/Peerat_Resume.pdf)
+You can download my CV [here](https://github.com/user-attachments/files/15524307/Peerat_Resume.pdf)
