@@ -7,6 +7,7 @@ author_profile: true
 ^ denotes equal contribution
 
 # 2024
+- <a href="">Seed-Free Synthetic Data Generation Framework for Instruction-Tuning LLMs: A Case Study in Thai</a> (ACL-SRW'24) Parinthapat Pengpun, Can Udomcharoenchaikit, Weerayut Buaphet, ***Peerat Limkonchotiwat***. Github: [LINK]()
 - <a href="">Space Decomposition for Sentence Embedding</a> (ACL'24 - Finding) Wuttikorn Ponwitayarat^, ***Peerat Limkonchotiwat^***, Ekapol Chuangsuwanich, Sarana Nutanong. Github: [LINK]()
 - <a href="">Identifying and Mitigating Annotation Bias in Natural Language Understanding using Causal Mediation Analysis</a> (ACL'24 - Finding) Can Udomcharoenchaikit, Sitiporn Sae Lim, ***Peerat Limkonchotiwat***, Ekapol Chuangsuwanich, Sarana Nutanong. Github: [LINK]()
 
