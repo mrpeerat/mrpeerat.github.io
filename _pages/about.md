@@ -14,7 +14,7 @@ My advisor and co-advisor were [Assoc. Prof. Dr. Sarana Nutanong](https://schola
 My research topics
 ======
 - Word segmentation ([SEFR_CUT](https://www.aclweb.org/anthology/2020.emnlp-main.315/), [OSKut](https://aclanthology.org/2021.findings-acl.86.pdf))
-- Multilingual and cross-lingual retrieval systems ([CL-ReLKT](https://openreview.net/forum?id=y42xxJ_xx8), [McCrolin](), [Distil CoT]())
+- Multilingual and cross-lingual retrieval systems ([RFR](https://aclanthology.org/2021.findings-emnlp.80/), [CL-ReLKT](https://openreview.net/forum?id=y42xxJ_xx8), [McCrolin](), [Distil CoT]())
 - Representation learning ([ConGen](https://aclanthology.org/2022.findings-emnlp.483/), [DST](https://aclanthology.org/2023.acl-short.95.pdf), [SCT](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00620/118714/An-Efficient-Self-Supervised-Cross-View-Training))
 - Evaluation and benchmarks ([SEACrowd](https://arxiv.org/abs/2406.10118), [MT CS dataset](), [TH-EN Benchmark](), [CHIE]())
 - Information Extraction: Entity Linking ([mReFinED](https://aclanthology.org/2023.findings-emnlp.1007/), [CFT]()) and Nested NER ([Thai NNER](https://aclanthology.org/2022.findings-acl.116/)). 
