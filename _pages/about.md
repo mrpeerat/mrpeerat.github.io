@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an AI Engineer at AI Singapore, NUS. My responsibility is to develop SEA LLMs (SEA-LION) and benchmarks (SEA-HELM). My released models are [SEA-LIONv3](https://huggingface.co/aisingapore/gemma2-9b-cpt-sea-lionv3-base), [WangchanLIONv2](https://huggingface.co/aisingapore/Gemma2-9b-WangchanLIONv2-instruct). I also helped my team to develop [SEA-HELM](https://leaderboard.sea-lion.ai/) for Thai. Moreover, I also work as the main contributor of [SEACrowd](https://seacrowd.github.io/seacrowd-catalogue/), the project that collects data for SEA languages.   
+I'm currently an AI Engineer at AI Singapore, NUS. My responsibility is to develop SEA LLMs (SEA-LION) and benchmarks (SEA-HELM). My released models are [SEA-LIONv3](https://huggingface.co/aisingapore/gemma2-9b-cpt-sea-lionv3-base), [WangchanLIONv2](https://huggingface.co/aisingapore/Gemma2-9b-WangchanLIONv2-instruct). I also helped my team to develop [SEA-HELM](https://leaderboard.sea-lion.ai/) for Thai. Moreover, I also work as the main contributor to [SEACrowd](https://seacrowd.github.io/seacrowd-catalogue/), a project that collects data for SEA languages. In addition to AI Singapore, I am also invited researcher at Chulalongkorn, Thailand.    
 
 Before that, I was a Ph.D. student (5-year program) in the Natural Language and Representation Lab (NRL), [Information Science and Technology (IST) at VISTEC](https://vistec.ist/), Thailand.
 My advisor and co-advisor were [Assoc. Prof. Dr. Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ&hl=th) and [Dr. Ekapol Chuangsuwanich](https://scholar.google.com/citations?user=ST-jPeYAAAAJ&hl=th), respectively. My research topics are representation learning and multilingual learning.  
@@ -25,12 +25,13 @@ My research topics
 
 News
 ======
-1. 7 papers accepted at EMNLP'24 (3 main, 2 finding, 2 workshops)!!! 
-2. 1 paper at the ALVR workshop and 1 paper at the ACL-SRW (as the co-responding author) had been accepted! 
-3. My latest two papers have been accepted at ACL 2024 (finding), such as a new sentence embedding and a debiasing technique in NLU.
-4. My intern project at Amazon, [mReFinED](https://aclanthology.org/2023.findings-emnlp.1007/), has been published at EMNLP 2023 (finding)! 
-5. My latest sentence embedding paper, [SCT](https://github.com/mrpeerat/SCT), was accepted at TACL 2023. 
-6. [ConGen](https://github.com/KornWtp/ConGen) accepted at Finding of EMNLP 2022.
-7. In Fall 2022, I will intern at [Amazon](https://www.amazon.jobs/en/landing_pages/cambridge?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=cambridge-uk&cache), Cambridge, GBR.
-8. [CL-ReLKT](https://openreview.net/pdf?id=SGfeUGXMBZc) accepted at Finding of NAACL 2022
-9. [Thai Nested NER](https://aclanthology.org/2022.findings-acl.116/) accepted at Finding of ACL 2022
+1. I just got promoted to be invited researcher at Chulalongkorn, where I got funded to do research and publish at top-tier conferences and journals.  
+2. 7 papers accepted at EMNLP'24 (3 main, 2 finding, 2 workshops)!!! 
+3. 1 paper at the ALVR workshop and 1 paper at the ACL-SRW (as the co-responding author) had been accepted! 
+4. My latest two papers have been accepted at ACL 2024 (finding), such as a new sentence embedding and a debiasing technique in NLU.
+5. My intern project at Amazon, [mReFinED](https://aclanthology.org/2023.findings-emnlp.1007/), has been published at EMNLP 2023 (finding)! 
+6. My latest sentence embedding paper, [SCT](https://github.com/mrpeerat/SCT), was accepted at TACL 2023. 
+7. [ConGen](https://github.com/KornWtp/ConGen) accepted at Finding of EMNLP 2022.
+8. In Fall 2022, I will intern at [Amazon](https://www.amazon.jobs/en/landing_pages/cambridge?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=cambridge-uk&cache), Cambridge, GBR.
+9. [CL-ReLKT](https://openreview.net/pdf?id=SGfeUGXMBZc) accepted at Finding of NAACL 2022
+10. [Thai Nested NER](https://aclanthology.org/2022.findings-acl.116/) accepted at Finding of ACL 2022
