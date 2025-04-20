@@ -6,6 +6,9 @@ author_profile: true
 ---
 ^ denotes equal contribution
 
+# 2025
+- <a href="">Global mmlu: Understanding and addressing cultural and linguistic biases in multilingual evaluation</a> (NAACL'25) Genta Indra Winata, Frederikus Hudi, Patrick Amadeus Irawan, David Anugraha, Rifki Afina Putri, Yutong Wang, Adam Nohejl, Ubaidillah Ariq Prathama, Nedjma Ousidhoum, Afifa Amriani, Anar Rzayev, Anirban Das, Ashmari Pramodya, Aulia Adila, Bryan Wilie, Candy Olivia Mawalim, Ching Lam Cheng, Daud Abolade, Emmanuele Chersoni, Enrico Santus, Fariz Ikhwantri, Garry Kuwanto, Hanyang Zhao, Haryo Akbarianto Wibowo, Holy Lovenia, Jan Christian Blaise Cruz, Jan Wira Gotama Putra, Junho Myung, Lucky Susanto, Maria Angelica Riera Machin, Marina Zhukova, Michael Anugraha, Muhammad Farid Adilazuarda, Natasha Santosa, ***Peerat Limkonchotiwat***, Raj Dabre, Rio Alexander Audino, Samuel Cahyawijaya, Shi-Xiong Zhang, Stephanie Yulia Salim, Yi Zhou, Yinxuan Gui, David Ifeoluwa Adelani, En-Shiun Annie Lee, Shogo Okada, Ayu Purwarianti, Alham Fikri Aji, Taro Watanabe, Derry Tanti Wijaya, Alice Oh, Chong-Wah Ngo. Github: [LINK](https://huggingface.co/datasets/worldcuisines/vqa)
+
 # 2024
 - <a href="https://aclanthology.org/2024.acl-srw.38.pdf">Seed-Free Synthetic Data Generation Framework for Instruction-Tuning LLMs: A Case Study in Thai</a> (ACL-SRW'24) Parinthapat Pengpun, Can Udomcharoenchaikit, Weerayut Buaphet, ***Peerat Limkonchotiwat***. Github: [LINK]()
 - <a href="https://arxiv.org/pdf/2406.03125">Space Decomposition for Sentence Embedding</a> (ACL'24 - Finding) Wuttikorn Ponwitayarat^, ***Peerat Limkonchotiwat^***, Ekapol Chuangsuwanich, Sarana Nutanong. Github: [LINK]()
