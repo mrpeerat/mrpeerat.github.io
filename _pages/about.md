@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an AI Engineer at AI Singapore, NUS. My responsibility is to develop and improve SEA LLMs ([SEA-LION](https://arxiv.org/pdf/2504.05747)) and benchmarks ([SEA-HELM](https://arxiv.org/pdf/2502.14301)). My released models are [SEA-LIONv3](https://huggingface.co/aisingapore/gemma2-9b-cpt-sea-lionv3-base) and [WangchanLIONv2](https://huggingface.co/aisingapore/Gemma2-9b-WangchanLIONv2-instruct). I also helped my team develop [SEA-HELM](https://leaderboard.sea-lion.ai/) for Thai, i.e., MT-Bench and Thai IF datasets. Moreover, I also work as the main contributor of [SEACrowd](https://seacrowd.github.io/seacrowd-catalogue/), a project that collects data in SEA and does many cool SEA research, such as [SEACrowd (EMNLP'24)](https://aclanthology.org/2024.emnlp-main.296/) and [SEA-VL](https://arxiv.org/abs/2503.07920). In addition to AI Singapore, I am also an invited researcher at Chulalongkorn, Thailand, and the advisory board of [SIGSEA](https://www.sigsea.org/).
+**If anyone wants to work on research topics such as LLMs, evaluation and benchmarking, embedding, representation learning, multilingual learning, or information retrieval, feel free to reach out to me at peerat\[at\]aisingapore.org!**
+
+I'm currently a Research Fellow at AI Singapore, NUS. My responsibility is to develop and improve SEA LLMs ([SEA-LION](https://arxiv.org/pdf/2504.05747)) and benchmarks ([SEA-HELM](https://arxiv.org/pdf/2502.14301)). My released models are [SEA-LIONv3](https://huggingface.co/aisingapore/gemma2-9b-cpt-sea-lionv3-base) and [WangchanLIONv2](https://huggingface.co/aisingapore/Gemma2-9b-WangchanLIONv2-instruct). I also helped my team develop [SEA-HELM](https://leaderboard.sea-lion.ai/) for Thai, i.e., MT-Bench and Thai IF datasets. Moreover, I also work as the main contributor of [SEACrowd](https://seacrowd.github.io/seacrowd-catalogue/), a project that collects data in SEA and does many cool SEA research, such as [SEACrowd (EMNLP'24)](https://aclanthology.org/2024.emnlp-main.296/) and [SEA-VL](https://arxiv.org/abs/2503.07920). In addition to AI Singapore, I am also an invited researcher at Chulalongkorn, Thailand, and the advisory board of [SIGSEA](https://www.sigsea.org/).
 
 Before that, I was a Ph.D. student (5-year program) in the Natural Language and Representation Lab (NRL), [Information Science and Technology (IST) at VISTEC](https://vistec.ist/), Thailand.
 My advisor and co-advisor were [Assoc. Prof. Dr. Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ&hl=th) and [Dr. Ekapol Chuangsuwanich](https://scholar.google.com/citations?user=ST-jPeYAAAAJ&hl=th), respectively. My research topics are representation and multilingual learnings.  
@@ -26,14 +28,15 @@ My research topics
 
 News
 ======
-1. WorldCuisines receives Best Theme Paper Award at NAACL'25!  
-2. I just got promoted to be an invited researcher at Chulalongkorn, where I got funded to do research and publish at top-tier conferences and journals.  
-3. 7 papers accepted at EMNLP'24 (3 main, 2 finding, 2 workshops)!!! 
-4. 1 paper at the ALVR workshop and 1 paper at the ACL-SRW (as the co-responding author) had been accepted! 
-5. My latest two papers have been accepted at ACL 2024 (finding), such as a new sentence embedding and a debiasing technique in NLU.
-6. My intern project at Amazon, [mReFinED](https://aclanthology.org/2023.findings-emnlp.1007/), has been published at EMNLP 2023 (finding)! 
-7. My latest sentence embedding paper, [SCT](https://github.com/mrpeerat/SCT), was accepted at TACL 2023. 
-8. [ConGen](https://github.com/KornWtp/ConGen) accepted at Finding of EMNLP 2022.
-9. In Fall 2022, I will intern at [Amazon](https://www.amazon.jobs/en/landing_pages/cambridge?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=cambridge-uk&cache), Cambridge, GBR.
-10. [CL-ReLKT](https://openreview.net/pdf?id=SGfeUGXMBZc) accepted at Finding of NAACL 2022
-11. [Thai Nested NER](https://aclanthology.org/2022.findings-acl.116/) accepted at Finding of ACL 2022
+1. I just got prompted to be a Research Fellow at AI Singapore. I will mainly focus on research in LLMs and NLP. If anyone wants to work on topics such as LLMs, evaluation and benchmarking, embedding, representation learning, multilingual learning, or information retrieval, feel free to reach out to me! 
+2. WorldCuisines receives Best Theme Paper Award at NAACL'25!  
+3. I just got promoted to be an invited researcher at Chulalongkorn, where I got funded to do research and publish at top-tier conferences and journals.  
+4. 7 papers accepted at EMNLP'24 (3 main, 2 finding, 2 workshops)!!! 
+5. 1 paper at the ALVR workshop and 1 paper at the ACL-SRW (as the co-responding author) had been accepted! 
+6. My latest two papers have been accepted at ACL 2024 (finding), such as a new sentence embedding and a debiasing technique in NLU.
+7. My intern project at Amazon, [mReFinED](https://aclanthology.org/2023.findings-emnlp.1007/), has been published at EMNLP 2023 (finding)! 
+8. My latest sentence embedding paper, [SCT](https://github.com/mrpeerat/SCT), was accepted at TACL 2023. 
+9. [ConGen](https://github.com/KornWtp/ConGen) accepted at Finding of EMNLP 2022.
+10. In Fall 2022, I will intern at [Amazon](https://www.amazon.jobs/en/landing_pages/cambridge?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=cambridge-uk&cache), Cambridge, GBR.
+11. [CL-ReLKT](https://openreview.net/pdf?id=SGfeUGXMBZc) accepted at Finding of NAACL 2022
+12. [Thai Nested NER](https://aclanthology.org/2022.findings-acl.116/) accepted at Finding of ACL 2022
