@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-**If anyone wants to work on research topics such as LLMs, evaluation and benchmarking, embedding, representation learning, multilingual learning, or information retrieval, feel free to reach out to me at peerat\[at\]aisingapore.org!**
-
 I'm currently a Research Fellow at AI Singapore, NUS. My responsibility is to develop and improve SEA LLMs ([SEA-LION](https://arxiv.org/pdf/2504.05747)) and benchmarks ([SEA-HELM](https://arxiv.org/pdf/2502.14301)). My released models are [SEA-LIONv3](https://huggingface.co/aisingapore/gemma2-9b-cpt-sea-lionv3-base) and [WangchanLIONv2](https://huggingface.co/aisingapore/Gemma2-9b-WangchanLIONv2-instruct). I also helped my team develop [SEA-HELM](https://leaderboard.sea-lion.ai/) for Thai, i.e., MT-Bench and Thai IF datasets. Moreover, I also work as the main contributor of [SEACrowd](https://seacrowd.github.io/seacrowd-catalogue/), a project that collects data in SEA and does many cool SEA research, such as [SEACrowd (EMNLP'24)](https://aclanthology.org/2024.emnlp-main.296/) and [SEA-VL](https://arxiv.org/abs/2503.07920). In addition to AI Singapore, I am also an invited researcher at Chulalongkorn, Thailand, and the advisory board of [SIGSEA](https://www.sigsea.org/).
 
 Before that, I was a Ph.D. student (5-year program) in the Natural Language and Representation Lab (NRL), [Information Science and Technology (IST) at VISTEC](https://vistec.ist/), Thailand.
@@ -28,7 +26,7 @@ My research topics
 
 News
 ======
-1. I just got prompted to be a Research Fellow at AI Singapore. I will mainly focus on research in LLMs and NLP. If anyone wants to work on topics such as LLMs, evaluation and benchmarking, embedding, representation learning, multilingual learning, or information retrieval, feel free to reach out to me! 
+1. I just got prompted to be a Research Fellow at AI Singapore. I will mainly focus on research in LLMs and NLP.
 2. WorldCuisines receives Best Theme Paper Award at NAACL'25!  
 3. I just got promoted to be an invited researcher at Chulalongkorn, where I got funded to do research and publish at top-tier conferences and journals.  
 4. 7 papers accepted at EMNLP'24 (3 main, 2 finding, 2 workshops)!!! 
