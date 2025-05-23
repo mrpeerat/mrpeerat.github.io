@@ -26,15 +26,17 @@ My research topics
 
 News
 ======
-1. I just got prompted to be a Research Fellow at AI Singapore. I will mainly focus on research in LLMs and NLP.
-2. WorldCuisines receives Best Theme Paper Award at NAACL'25!  
-3. I just got promoted to be an invited researcher at Chulalongkorn, where I got funded to do research and publish at top-tier conferences and journals.  
-4. 7 papers accepted at EMNLP'24 (3 main, 2 finding, 2 workshops)!!! 
-5. 1 paper at the ALVR workshop and 1 paper at the ACL-SRW (as the co-responding author) had been accepted! 
-6. My latest two papers have been accepted at ACL 2024 (finding), such as a new sentence embedding and a debiasing technique in NLU.
-7. My intern project at Amazon, [mReFinED](https://aclanthology.org/2023.findings-emnlp.1007/), has been published at EMNLP 2023 (finding)! 
-8. My latest sentence embedding paper, [SCT](https://github.com/mrpeerat/SCT), was accepted at TACL 2023. 
-9. [ConGen](https://github.com/KornWtp/ConGen) accepted at Finding of EMNLP 2022.
-10. In Fall 2022, I will intern at [Amazon](https://www.amazon.jobs/en/landing_pages/cambridge?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=cambridge-uk&cache), Cambridge, GBR.
-11. [CL-ReLKT](https://openreview.net/pdf?id=SGfeUGXMBZc) accepted at Finding of NAACL 2022
-12. [Thai Nested NER](https://aclanthology.org/2022.findings-acl.116/) accepted at Finding of ACL 2022
+1. 1 paper got accepted to LLMSEC@ACL.
+2. 4 papers got accepted at ACL, where 2 of them are main and the other 2 are findings. 
+3. I just got prompted to be a Research Fellow at AI Singapore. I will mainly focus on research in LLMs and NLP.
+4. WorldCuisines receives Best Theme Paper Award at NAACL'25!  
+5. I just got promoted to be an invited researcher at Chulalongkorn, where I got funded to do research and publish at top-tier conferences and journals.  
+6. 7 papers accepted at EMNLP'24 (3 main, 2 finding, 2 workshops)!!! 
+7. 1 paper at the ALVR workshop and 1 paper at the ACL-SRW (as the co-responding author) had been accepted! 
+8. My latest two papers have been accepted at ACL 2024 (finding), such as a new sentence embedding and a debiasing technique in NLU.
+9. My intern project at Amazon, [mReFinED](https://aclanthology.org/2023.findings-emnlp.1007/), has been published at EMNLP 2023 (finding)! 
+10. My latest sentence embedding paper, [SCT](https://github.com/mrpeerat/SCT), was accepted at TACL 2023. 
+11. [ConGen](https://github.com/KornWtp/ConGen) accepted at Finding of EMNLP 2022.
+12. In Fall 2022, I will intern at [Amazon](https://www.amazon.jobs/en/landing_pages/cambridge?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=cambridge-uk&cache), Cambridge, GBR.
+13. [CL-ReLKT](https://openreview.net/pdf?id=SGfeUGXMBZc) accepted at Finding of NAACL 2022
+14. [Thai Nested NER](https://aclanthology.org/2022.findings-acl.116/) accepted at Finding of ACL 2022
