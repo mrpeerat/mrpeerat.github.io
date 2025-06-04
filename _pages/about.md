@@ -23,7 +23,7 @@ My research topics
 - Representation learning ([ConGen](https://aclanthology.org/2022.findings-emnlp.483/), [DST](https://aclanthology.org/2023.acl-short.95.pdf), [SCT](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00620/118714/An-Efficient-Self-Supervised-Cross-View-Training), [MixSP](https://aclanthology.org/2024.findings-acl.668.pdf))
 - Evaluation and benchmarks ([SEA-VQA](https://aclanthology.org/2024.alvr-1.15.pdf), [SEACrowd](https://aclanthology.org/2024.emnlp-main.296.pdf), [MT CS dataset](https://aclanthology.org/2024.findings-emnlp.351.pdf), [TH-EN Benchmark](https://arxiv.org/pdf/2410.17145), [CHIE](https://aclanthology.org/2024.genbench-1.10.pdf), [SEA-VL](https://arxiv.org/pdf/2503.07920), [SEA-HELM](https://arxiv.org/pdf/2502.14301), [Global MMLU](https://arxiv.org/pdf/2412.03304), [Thai Dialects](https://arxiv.org/pdf/2504.05898), [WorldCuisines](https://arxiv.org/pdf/2410.12705))
 - Information Extraction: Entity Linking ([mReFinED](https://aclanthology.org/2023.findings-emnlp.1007/), [CFT](https://aclanthology.org/2024.emnlp-main.855.pdf)) and Nested NER ([Thai NNER](https://aclanthology.org/2022.findings-acl.116/))
-- Safety in AI: [Bias in GuardRail]()
+- Safety in AI: [Bias in Guardrail models]()
 
 News (2025)
 ======
