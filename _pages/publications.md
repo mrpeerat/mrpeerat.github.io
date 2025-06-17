@@ -8,7 +8,7 @@ author_profile: true
 
 # Pre-print
 - <a href="https://arxiv.org/pdf/2505.23117">Decom-Renorm-Merge: Model Merging on the Right Space Improves Multitasking</a>. Yuatyong Chaichana, Thanapat Trachu, Peerat Limkonchotiwat, Konpat Preechakul, Tirasan Khandhawit, Ekapol Chuangsuwanich
-- <a href="https://arxiv.org/pdf/2504.05898">Decom-Renorm-Merge: Model Merging on the Right Space Improves Multitasking</a>. ***Peerat Limkonchotiwat^***, Kanruethai Masuk^, Surapon Nonesung^, Chalermpun Mai-On^, Sarana Nutanong, Wuttikorn Ponwitayarat^, Potsawee Manakul^
+- <a href="https://arxiv.org/pdf/2504.05898">Assessing Thai Dialect Performance in LLMs with Automatic Benchmarks and Human Evaluation</a>. ***Peerat Limkonchotiwat^***, Kanruethai Masuk^, Surapon Nonesung^, Chalermpun Mai-On^, Sarana Nutanong, Wuttikorn Ponwitayarat^, Potsawee Manakul^
 - <a href="https://arxiv.org/pdf/2504.05747">Sea-lion: Southeast asian languages in one network</a>. Raymond Ng, Thanh Ngan Nguyen, Yuli Huang, Ngee Chia Tai, Wai Yi Leong, Wei Qi Leong, Xianbin Yong, Jian Gang Ngui, Yosephine Susanto, Nicholas Cheng, Hamsawardhini Rengarajan, ***Peerat Limkonchotiwat***, Adithya Venkatadri Hulagadri, Kok Wai Teng, Yeo Yeow Tong, Bryan Siow, Wei Yi Teo, Wayne Lau, Choon Meng Tan, Brandon Ong, Zhi Hao Ong, Jann Railey Montalan, Adwin Chan, Sajeban Antonyrex, Ren Lee, Esther Choa, David Ong Tat-Wee, Bing Jie Darius Liu, William Chandra Tjhi, Erik Cambria, Leslie Teo
 
 
