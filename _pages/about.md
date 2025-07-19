@@ -28,7 +28,7 @@ My research topics
 Contact and Collaboration
 ======
 - I'm mostly working on SEA languages models and benchmarks: safety in AI, encoder and decoder models, and generalization benchmarks (i.e., out-of-domain or low-resource languages). And, if you're looking for a collaborator on these topics, feel free to contact me at peerat(at)aisingapore.org
-- AI Singapore is also looking for an intern, an engineer, or a researcher who is passionate about large language models, especially SEA LLMs. Feel free to contact me with your CV.
+- AI Singapore is also looking for an intern, an engineer, or a researcher who is passionate about large language models, especially SEA LLMs. Feel free to contact me and attach your CV to the email as well.
 
 News (2025)
 ======
