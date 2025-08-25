@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Research Fellow at AI Singapore, NUS. My responsibility is to develop and improve SEA LLMs ([SEA-LION](https://arxiv.org/pdf/2504.05747)) and benchmarks ([SEA-HELM](https://arxiv.org/pdf/2502.14301)). My released models are [SEA-LIONv3](https://huggingface.co/aisingapore/gemma2-9b-cpt-sea-lionv3-base) and [WangchanLIONv2](https://huggingface.co/aisingapore/Gemma2-9b-WangchanLIONv2-instruct). I also helped my team develop [SEA-HELM](https://leaderboard.sea-lion.ai/) for Thai, i.e., MT-Bench and Thai IF datasets. Moreover, I also work as the main contributor of [SEACrowd](https://seacrowd.github.io/seacrowd-catalogue/), a project that collects data in SEA and does many cool SEA research, such as [SEACrowd (EMNLP'24)](https://aclanthology.org/2024.emnlp-main.296/) and [SEA-VL (ACL'25)](https://arxiv.org/abs/2503.07920). In addition to AI Singapore, I am also an invited researcher at Chulalongkorn, Thailand, and the advisory board of [SIGSEA](https://www.sigsea.org/).
+I'm currently a Research Fellow at AI Singapore, NUS. My responsibility is to develop and improve SEA LLMs ([SEA-LION](https://arxiv.org/pdf/2504.05747)) and benchmarks ([SEA-HELM](https://arxiv.org/pdf/2502.14301)). My released models are [SEA-LIONv3](https://huggingface.co/aisingapore/gemma2-9b-cpt-sea-lionv3-base), [WangchanLIONv2](https://huggingface.co/aisingapore/Gemma2-9b-WangchanLIONv2-instruct), and [WangchanLIONv3](https://huggingface.co/collections/aisingapore/wangchanlion-v3-687a362d8f0ea2fe4077c6b3). I also helped my team develop [SEA-HELM](https://leaderboard.sea-lion.ai/) for Thai, i.e., MT-Bench and Thai IF datasets. Moreover, I also work as the main contributor of [SEACrowd](https://seacrowd.github.io/seacrowd-catalogue/), a project that collects data in SEA and does many cool SEA research, such as [SEACrowd (EMNLP'24)](https://aclanthology.org/2024.emnlp-main.296/) and [SEA-VL (ACL'25)](https://arxiv.org/abs/2503.07920). In addition to AI Singapore, I am also an invited researcher at Chulalongkorn, Thailand, and the advisory board of [SIGSEA](https://www.sigsea.org/).
 
 Before that, I was a Ph.D. student (5-year program) in the Natural Language and Representation Lab (NRL), [Information Science and Technology (IST) at VISTEC](https://vistec.ist/), Thailand.
 My advisor and co-advisor were [Assoc. Prof. Dr. Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ&hl=th) and [Dr. Ekapol Chuangsuwanich](https://scholar.google.com/citations?user=ST-jPeYAAAAJ&hl=th), respectively. My research topics are representation and multilingual learnings.  
@@ -21,19 +21,19 @@ My research topics
 - Multilingual and cross-lingual retrieval systems ([RFR](https://aclanthology.org/2021.findings-emnlp.80/), [CL-ReLKT](https://openreview.net/forum?id=y42xxJ_xx8), [McCrolin](https://aclanthology.org/2024.findings-emnlp.157.pdf))
 - Large language models ([Seed-Free](https://arxiv.org/pdf/2411.15484), [Distil CoT](https://aclanthology.org/2024.emnlp-main.442.pdf), [xPoT](https://arxiv.org/pdf/2502.17956?), [SEA-LION](https://arxiv.org/pdf/2504.05747))
 - Representation learning ([ConGen](https://aclanthology.org/2022.findings-emnlp.483/), [DST](https://aclanthology.org/2023.acl-short.95.pdf), [SCT](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00620/118714/An-Efficient-Self-Supervised-Cross-View-Training), [MixSP](https://aclanthology.org/2024.findings-acl.668.pdf))
-- Evaluation and benchmarks ([SEA-VQA](https://aclanthology.org/2024.alvr-1.15.pdf), [SEACrowd](https://aclanthology.org/2024.emnlp-main.296.pdf), [MT CS dataset](https://aclanthology.org/2024.findings-emnlp.351.pdf), [TH-EN Benchmark](https://arxiv.org/pdf/2410.17145), [CHIE](https://aclanthology.org/2024.genbench-1.10.pdf), [SEA-VL](https://arxiv.org/pdf/2503.07920), [SEA-HELM](https://arxiv.org/pdf/2502.14301), [Global MMLU](https://arxiv.org/pdf/2412.03304), [Thai Dialects](https://arxiv.org/pdf/2504.05898), [WorldCuisines](https://arxiv.org/pdf/2410.12705))
+- Evaluation and benchmarks ([SEA-VQA](https://aclanthology.org/2024.alvr-1.15.pdf), [SEACrowd](https://aclanthology.org/2024.emnlp-main.296.pdf), [MT CS dataset](https://aclanthology.org/2024.findings-emnlp.351.pdf), [CHIE](https://aclanthology.org/2024.genbench-1.10.pdf), [SEA-VL](https://arxiv.org/pdf/2503.07920), [SEA-HELM](https://arxiv.org/pdf/2502.14301), [Global MMLU](https://arxiv.org/pdf/2412.03304), [Thai Dialects](https://arxiv.org/pdf/2504.05898), [WorldCuisines](https://arxiv.org/pdf/2410.12705), [WangchanThaiInstruction](https://arxiv.org/pdf/2508.15239))
 - Information Extraction: Entity Linking ([mReFinED](https://aclanthology.org/2023.findings-emnlp.1007/), [CFT](https://aclanthology.org/2024.emnlp-main.855.pdf)) and Nested NER ([Thai NNER](https://aclanthology.org/2022.findings-acl.116/))
-- Safety in AI: [Bias in Guardrail models]()
+- Safety in AI: [Bias in Guardrail models](https://aclanthology.org/2025.llmsec-1.14.pdf)
 
 Contact and Collaboration
 ======
-- I'm mostly working on SEA languages models and benchmarks: safety in AI, encoder and decoder models, and generalization benchmarks (i.e., out-of-domain or low-resource languages). And, if you're looking for a collaborator on these topics, feel free to contact me at peerat(at)aisingapore.org
+- I'm mostly working on SEA languages, models, and benchmarks, such as: safety in AI, encoder and decoder models, and generalization benchmarks (i.e., out-of-domain or low-resource languages). And, if you're looking for a collaborator on these topics, feel free to contact me at peerat(at)aisingapore.org
 - AI Singapore is also looking for an intern, an engineer, or a researcher who is passionate about large language models, especially SEA LLMs. Feel free to contact me and attach your CV to the email as well.
 
 News (2025)
 ======
-1. 1 paper got accepted to LLMSEC@ACL.
-2. 4 papers got accepted at ACL, where 2 of them are Main Track and the other 2 are Findings Track. 
+1. 1 paper got accepted to the EMNLP Main Conference (co-first author): [WangchanThaiInstruction](https://arxiv.org/pdf/2508.15239).
+2. 5 papers got accepted at ACL, where 2 main, 2 findings, and 1 LLMSEC@ACL.
 3. I just got prompted to be a Research Fellow at AI Singapore. I will mainly focus on research in LLMs and NLP.
 4. WorldCuisines receives Best Theme Paper Award at NAACL'25!  
 5. I just got promoted to be an invited researcher at Chulalongkorn, where I got funded to do research and publish at top-tier conferences and journals.
@@ -41,8 +41,7 @@ News (2025)
 News (20XX-2024)
 ======
 1. 7 papers accepted at EMNLP'24 (3 main, 2 finding, 2 workshops)!!! 
-2. 1 paper at the ALVR workshop and 1 paper at the ACL-SRW (as the co-responding author) had been accepted! 
-3. My latest two papers have been accepted at ACL 2024 (finding), such as a new sentence embedding and a debiasing technique in NLU.
+2. 4 papers accepted at ACL'24 (2 Findings, 1 SRW, 1 workshop).
 2. My intern project at Amazon, [mReFinED](https://aclanthology.org/2023.findings-emnlp.1007/), has been published at EMNLP 2023 (finding)! 
 3. My latest sentence embedding paper, [SCT](https://github.com/mrpeerat/SCT), was accepted at TACL 2023. 
 4. [ConGen](https://github.com/KornWtp/ConGen) accepted at Finding of EMNLP 2022.
