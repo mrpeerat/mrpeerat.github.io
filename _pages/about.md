@@ -11,7 +11,7 @@ redirect_from:
 I'm currently a Research Fellow at AI Singapore, NUS. My responsibility is to develop and improve SEA LLMs ([SEA-LION](https://arxiv.org/pdf/2504.05747)) and benchmarks ([SEA-HELM](https://arxiv.org/pdf/2502.14301)). My released models are [SEA-LIONv3](https://huggingface.co/aisingapore/gemma2-9b-cpt-sea-lionv3-base), [WangchanLIONv2](https://huggingface.co/aisingapore/Gemma2-9b-WangchanLIONv2-instruct), and [WangchanLIONv3](https://huggingface.co/collections/aisingapore/wangchanlion-v3-687a362d8f0ea2fe4077c6b3). I also helped my team develop [SEA-HELM](https://leaderboard.sea-lion.ai/) for Thai, i.e., MT-Bench and Thai IF datasets. Moreover, I also work as the main contributor of [SEACrowd](https://seacrowd.github.io/seacrowd-catalogue/), a project that collects data in SEA and does many cool SEA research, such as [SEACrowd (EMNLP'24)](https://aclanthology.org/2024.emnlp-main.296/) and [SEA-VL (ACL'25)](https://arxiv.org/abs/2503.07920). In addition to AI Singapore, I am also an invited researcher at Chulalongkorn, Thailand, and the advisory board of [SIGSEA](https://www.sigsea.org/).
 
 Before that, I was a Ph.D. student (5-year program) in the Natural Language and Representation Lab (NRL), [Information Science and Technology (IST) at VISTEC](https://vistec.ist/), Thailand.
-My advisor and co-advisor were [Assoc. Prof. Dr. Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ&hl=th) and [Dr. Ekapol Chuangsuwanich](https://scholar.google.com/citations?user=ST-jPeYAAAAJ&hl=th), respectively. My research topics are representation and multilingual learnings.  
+My advisor and co-advisor were [Assoc. Prof. Dr. Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ&hl=th) and [Dr. Ekapol Chuangsuwanich](https://scholar.google.com/citations?user=ST-jPeYAAAAJ&hl=th), respectively. My research topics were representation and multilingual learnings.  
 
 During my Ph.D., I was an intern at Amazon, Cambridge, GBR (2022-2023). I was working with Weiwei Cheng (mentor), [Christos Christodoulopoulos](https://scholar.google.com/citations?user=oZORQtwAAAAJ&hl=en), [Amir Saffari](https://scholar.google.co.uk/citations?user=QJX4mnQAAAAJ&hl=en), [Jens Lehmann](https://scholar.google.com/citations?user=sEaQ5rgAAAAJ&hl=th&oi=ao), and Daniele Masato (PM). I also was a part of [the WangchanX project](https://www.wangchan.ai/home) as a Subject Matter Expert (SME) from 2019-2024. Our team developed two Thai large language models: [WangchanGLM](https://github.com/PyThaiNLP/WangChanGLM) (based on XGLM) and [WangchanLion](https://huggingface.co/airesearch/WangchanLion7B) (based on SeaLION). Moreover, we released a [WangchanX toolkit](https://github.com/vistec-AI/WangchanX) for fine-tuning Thai LLMs. Our team also released the [largest Thai instruction dataset](https://huggingface.co/datasets/airesearch/WangchanThaiInstruct) in 2024-25.  
 
@@ -27,16 +27,17 @@ My research topics
 
 Contact and Collaboration
 ======
-- I'm mostly working on SEA languages, models, and benchmarks, such as: safety in AI, encoder and decoder models, and generalization benchmarks (i.e., out-of-domain or low-resource languages). And, if you're looking for a collaborator on these topics, feel free to contact me at peerat(at)aisingapore.org
+- I'm mostly working on SEA languages, models, and benchmarks, such as safety in AI, encoder and decoder models, and generalization benchmarks (i.e., out-of-domain or low-resource languages). And, if you're looking for a collaborator on these topics, feel free to contact me at peerat(at)aisingapore.org
 - AI Singapore is also looking for an intern, an engineer, or a researcher who is passionate about large language models, especially SEA LLMs. Feel free to contact me and attach your CV to the email as well.
 
 News (2025)
 ======
-1. 1 paper got accepted to the EMNLP Main Conference (co-first author): [WangchanThaiInstruction](https://arxiv.org/pdf/2508.15239).
-2. 5 papers got accepted at ACL, where 2 main, 2 findings, and 1 LLMSEC@ACL.
-3. I just got prompted to be a Research Fellow at AI Singapore. I will mainly focus on research in LLMs and NLP.
-4. WorldCuisines receives Best Theme Paper Award at NAACL'25!  
-5. I just got promoted to be an invited researcher at Chulalongkorn, where I got funded to do research and publish at top-tier conferences and journals.
+1. [SEA-LION](https://arxiv.org/abs/2504.05747) got accepted to the AACL Main Conference, and it won the Best Resource Award!  
+2. 1 paper got accepted to the EMNLP Main Conference (co-first author): [WangchanThaiInstruction](https://arxiv.org/pdf/2508.15239).
+3. 5 papers got accepted at ACL, where 2 main, 2 findings, and 1 LLMSEC@ACL.
+4. I just got prompted to be a Research Fellow at AI Singapore. I will mainly focus on research in LLMs and NLP.
+5. WorldCuisines receives Best Theme Paper Award at NAACL'25!  
+6. I just got promoted to be an invited researcher at Chulalongkorn, where I got funded to do research and publish at top-tier conferences and journals.
 
 News (20XX-2024)
 ======
