@@ -33,10 +33,11 @@ Contact and Collaboration
 
 News (2026)
 ======
-1. 3 papers got accepted at ACL'26: [SEA-Guard](https://arxiv.org/abs/2602.01618), [SEA-SafeguardBench](https://arxiv.org/pdf/2512.05501), and [SEA-BED](https://arxiv.org/pdf/2508.12243). 
-2. I just released SOTA embedding for SEA called [SEA-LION Embedding](https://huggingface.co/collections/aisingapore/sea-lion-modernbert-and-embedding). It outperforms E5-large and Qwen-Embedding in SEA languages.
-3. I will organize [WiNLP](https://winlp-workshop.github.io/) at EMNLP'26 in Budapest, Hungary. 
-4. [BURMESE-SAN](https://arxiv.org/pdf/2602.18788) got accepted at LREC 2026. 
+1.1 paper got accepted at EMNLP'26: [SEA-LION Embedding](https://arxiv.org/pdf/2606.03027)
+2. 3 papers got accepted at ACL'26: [SEA-Guard](https://arxiv.org/abs/2602.01618), [SEA-SafeguardBench](https://arxiv.org/pdf/2512.05501), and [SEA-BED](https://arxiv.org/pdf/2508.12243). 
+3. I just released SOTA embedding for SEA called [SEA-LION Embedding](https://huggingface.co/collections/aisingapore/sea-lion-modernbert-and-embedding). It outperforms E5-large and Qwen-Embedding in SEA languages.
+4. I will organize [WiNLP](https://winlp-workshop.github.io/) at EMNLP'26 in Budapest, Hungary. 
+5. [BURMESE-SAN](https://arxiv.org/pdf/2602.18788) got accepted at LREC 2026. 
 
 News (20XX-2025)
 ======
