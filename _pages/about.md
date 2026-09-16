@@ -19,25 +19,26 @@ My research topics
 ======
 - Word segmentation: [SEFR_CUT](https://www.aclweb.org/anthology/2020.emnlp-main.315/), [OSKut](https://aclanthology.org/2021.findings-acl.86.pdf)
 - Multilingual and cross-lingual retrieval systems: [RFR](https://aclanthology.org/2021.findings-emnlp.80/), [CL-ReLKT](https://openreview.net/forum?id=y42xxJ_xx8), [McCrolin](https://aclanthology.org/2024.findings-emnlp.157.pdf)
-- Large language models: [Seed-Free](https://arxiv.org/pdf/2411.15484), [Distil CoT](https://aclanthology.org/2024.emnlp-main.442.pdf), [xPoT](https://arxiv.org/pdf/2502.17956?), [SEA-LION](https://arxiv.org/pdf/2504.05747)
+- Large language models: [Seed-Free](https://arxiv.org/pdf/2411.15484), [Distil CoT](https://aclanthology.org/2024.emnlp-main.442.pdf), [xPoT](https://arxiv.org/pdf/2502.17956?), [SEA-LION](https://arxiv.org/pdf/2504.05747), [DuDi]([https://lnkd.in/eVkqtvpY](https://arxiv.org/pdf/2606.04694))
 - Representation learning: [ConGen](https://aclanthology.org/2022.findings-emnlp.483/), [DST](https://aclanthology.org/2023.acl-short.95.pdf), [SCT](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00620/118714/An-Efficient-Self-Supervised-Cross-View-Training), [MixSP](https://aclanthology.org/2024.findings-acl.668.pdf)
-- Evaluation and benchmarks: [SEA-VQA](https://aclanthology.org/2024.alvr-1.15.pdf), [SEACrowd](https://aclanthology.org/2024.emnlp-main.296.pdf), [MT CS dataset](https://aclanthology.org/2024.findings-emnlp.351.pdf), [CHIE](https://aclanthology.org/2024.genbench-1.10.pdf), [SEA-HELM](https://arxiv.org/pdf/2502.14301), [Global MMLU](https://arxiv.org/pdf/2412.03304), [Thai Dialects](https://arxiv.org/pdf/2504.05898), [WorldCuisines](https://arxiv.org/pdf/2410.12705), [WangchanThaiInstruction](https://arxiv.org/pdf/2508.15239), [BURMESE-SAN](https://arxiv.org/pdf/2602.18788), [SEA-BED](https://arxiv.org/pdf/2508.12243)
-- Information Extraction: Entity Linking [mReFinED](https://aclanthology.org/2023.findings-emnlp.1007/), [CFT](https://aclanthology.org/2024.emnlp-main.855.pdf), [Thai NNER](https://aclanthology.org/2022.findings-acl.116/), [LLM-NER](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11240174)
-- Safety in AI: [Bias in Guardrail models](https://aclanthology.org/2025.llmsec-1.14.pdf), [mLexNorm](https://arxiv.org/pdf/2601.16623), [SEA-Guard](https://arxiv.org/abs/2602.01618), [SEA-SafeguardBench](https://arxiv.org/pdf/2512.05501)
-- Vision and Large Language Model: [SEA-VL](https://arxiv.org/pdf/2503.07920), [Small-CLIP](https://arxiv.org/pdf/2511.17886), [mCLIP-KD](https://arxiv.org/pdf/2511.17886)
+- Evaluation and benchmarks: [SEA-VQA](https://aclanthology.org/2024.alvr-1.15.pdf), [SEACrowd](https://aclanthology.org/2024.emnlp-main.296.pdf), [MT CS dataset](https://aclanthology.org/2024.findings-emnlp.351.pdf), [CHIE](https://aclanthology.org/2024.genbench-1.10.pdf), [SEA-HELM](https://arxiv.org/pdf/2502.14301), [Global MMLU](https://arxiv.org/pdf/2412.03304), [Thai Dialects](https://arxiv.org/pdf/2504.05898), [WorldCuisines](https://arxiv.org/pdf/2410.12705), [WangchanThaiInstruction](https://arxiv.org/pdf/2508.15239), [BURMESE-SAN](https://arxiv.org/pdf/2602.18788), [SEA-BED](https://arxiv.org/pdf/2508.12243), [SEA-NLI](https://arxiv.org/pdf/2606.03284)
+- Information Extraction: [mReFinED](https://aclanthology.org/2023.findings-emnlp.1007/), [CFT](https://aclanthology.org/2024.emnlp-main.855.pdf), [Thai NNER](https://aclanthology.org/2022.findings-acl.116/), [LLM-NER](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11240174), [mLexNorm](https://arxiv.org/pdf/2601.16623)
+- Safety in AI: [Bias in Guardrail models](https://aclanthology.org/2025.llmsec-1.14.pdf), [SEA-Guard](https://arxiv.org/abs/2602.01618), [SEA-SafeguardBench](https://arxiv.org/pdf/2512.05501)
+- Vision and Large Language Model: [SEA-VL](https://arxiv.org/pdf/2503.07920), [Small-CLIP](https://arxiv.org/pdf/2511.17886), [mCLIP-KD](https://arxiv.org/pdf/2511.17886), [GG-EZ](https://arxiv.org/pdf/2604.11490)
 
 Contact and Collaboration
 ======
 - I'm mostly working on SEA languages, models, and benchmarks, such as safety in AI, encoder and decoder models, and generalization benchmarks (i.e., out-of-domain or low-resource languages). And, if you're looking for a collaborator on these topics, feel free to contact me at peerat(at)aisingapore.org
-- AI Singapore is also looking for an intern, an engineer, or a researcher who is passionate about large language models, especially SEA LLMs. Feel free to contact me and attach your CV to the email as well.
+- AI Singapore is also looking for an intern, an engineer, or a researcher who is passionate about large language models, especially SEA LLMs. If you're Singaporean or studying in Singapore (master's/PhD), feel free to contact me and attach your CV to the email as well.
 
 News (2026)
 ======
-1. 1 paper got accepted at EMNLP'26: [SEA-LION Embedding](https://arxiv.org/pdf/2606.03027)
-2. 3 papers got accepted at ACL'26: [SEA-Guard](https://arxiv.org/abs/2602.01618), [SEA-SafeguardBench](https://arxiv.org/pdf/2512.05501), and [SEA-BED](https://arxiv.org/pdf/2508.12243). 
-3. I just released SOTA embedding for SEA called [SEA-LION Embedding](https://huggingface.co/collections/aisingapore/sea-lion-modernbert-and-embedding). It outperforms E5-large and Qwen-Embedding in SEA languages.
-4. I will organize [WiNLP](https://winlp-workshop.github.io/) at EMNLP'26 in Budapest, Hungary. 
-5. [BURMESE-SAN](https://arxiv.org/pdf/2602.18788) got accepted at LREC 2026. 
+1. 3 papers got accepted at AACL'26: [DuDi](https://arxiv.org/pdf/2606.04694), [SEA-NLI](https://arxiv.org/pdf/2606.03284), [GG-EZ](https://arxiv.org/pdf/2604.11490)
+2. 1 paper got accepted at EMNLP'26: [SEA-LION Embedding](https://arxiv.org/pdf/2606.03027)
+3. 3 papers got accepted at ACL'26: [SEA-Guard](https://arxiv.org/abs/2602.01618), [SEA-SafeguardBench](https://arxiv.org/pdf/2512.05501), and [SEA-BED](https://arxiv.org/pdf/2508.12243). 
+4. I just released SOTA embedding for SEA called [SEA-LION Embedding](https://huggingface.co/collections/aisingapore/sea-lion-modernbert-and-embedding). It outperforms E5-large and Qwen-Embedding in SEA languages.
+5. I will organize [WiNLP](https://winlp-workshop.github.io/) at EMNLP'26 in Budapest, Hungary. 
+6. [BURMESE-SAN](https://arxiv.org/pdf/2602.18788) got accepted at LREC 2026. 
 
 News (20XX-2025)
 ======
